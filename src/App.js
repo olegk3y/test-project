@@ -1,6 +1,6 @@
 import React from 'react';
 import UsersList from './modules/users';
 
-const App = () => <UsersList />;
+const AppTEST = () => <UsersList />;
 
-export default App;
+export default AppTEST;
