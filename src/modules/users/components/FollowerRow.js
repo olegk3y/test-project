@@ -7,7 +7,7 @@ const Wrapper = styled.View`
   border-bottom-width: 1;
   display: flex;
   flex-direction: row;
-  padding: 10px;
+  padding: 15px;
   align-items: center;
 `;
 
