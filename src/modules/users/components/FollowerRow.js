@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import PropTypes from 'prop-types';
 
 const Wrapper = styled.View`
-  height: 65;
+  height: 62;
   border-bottom-width: 1;
   display: flex;
   flex-direction: row;
